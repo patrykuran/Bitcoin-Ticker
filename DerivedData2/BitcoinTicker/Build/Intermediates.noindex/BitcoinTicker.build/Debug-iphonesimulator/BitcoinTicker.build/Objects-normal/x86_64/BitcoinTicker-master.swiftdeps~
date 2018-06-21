@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
-options: "f5e1540843e94cca9b1353dc36109045"
-build_time: [1528992201, 530995000]
-inputs:
-  "/Users/p.uran/Documents/ios bootcamp/apps/Bitcoin-Ticker/BitcoinTicker/ViewController.swift": [1528912852, 0]
-  "/Users/p.uran/Documents/ios bootcamp/apps/Bitcoin-Ticker/BitcoinTicker/AppDelegate.swift": [1510815948, 0]

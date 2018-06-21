@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "62c2c88710dfb4bbc3638e99e32acceb"
+build_time: [1529598718, 756587000]
+inputs:
+  "/Users/p.uran/Documents/ios bootcamp/apps/Bitcoin-Ticker/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1528908722, 0]
